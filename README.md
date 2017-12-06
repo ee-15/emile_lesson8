@@ -3,18 +3,18 @@ Course Title:
 LIS 2360: Web Application Development
 
 Assignment Date:
-(Month Day, Year)
+(December 6, 2017)
 
 Student Name:
-(First and Last Name)
+(Elie Emile )
 
 Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to create a movie data base application using an API.)
 
 View Project:
-(Replace this statement with your Github Page URL that was created when you published the project.)
+(https://ee-15.github.io/emile_lesson8/)
 
 Lessons Learned in the Assignment:
-(Briefly describe a lesson/concept learned in this lesson.)
-(Briefly describe a lesson/concept learned in this lesson.)
-(Briefly describe a lesson/concept learned in this lesson.)
+(JSON is a syntax for storing and exchanging data.)
+(JSON is language independent.)
+(AJAX Allows client web pages to quickly interact and exchange data with a web server without reloading the entire webpage.)
